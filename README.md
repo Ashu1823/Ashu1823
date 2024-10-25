@@ -30,7 +30,8 @@ I’m a Frontend Developer by trade and a Game Developer at heart. I’m passion
 
 <a href="http://www.github.com/Ashu1823"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu1823&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Ashu1823"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashu1823&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+[![An image of @ashu1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu1234)](https://holopin.io/@ashu1234)
 
 ### Support Me
 
